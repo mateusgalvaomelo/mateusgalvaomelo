@@ -8,23 +8,25 @@ Transformando dados, processos e problemas reais em soluções tecnológicas.
 
 Minha trajetória profissional começou na área de comunicação social e audiovisual, onde atuei por aproximadamente 10 anos com produção, operações técnicas e soluções para diferentes necessidades do setor.
 
-Há 3 anos, iniciei minha transição para tecnologia, trazendo comigo a experiência em resolução de problemas, organização de processos e trabalho com diferentes áreas e profissionais.
+Há 3 anos, iniciei minha transição para tecnologia, trazendo comigo a experiência em resolução de problemas, organização de processos e colaboração com diferentes áreas e profissionais.
 
-Desde então, venho desenvolvendo projetos envolvendo análise e engenharia de dados, automação de processos, integração de sistemas e desenvolvimento de aplicações.
+Desde então, venho desenvolvendo soluções envolvendo análise e engenharia de dados, automação de processos, integração de sistemas e desenvolvimento de aplicações.
 
-Atualmente, meu foco está em Ciência de Dados, Engenharia de Dados e soluções orientadas a negócios, utilizando tecnologias como Python, SQL, Microsoft Power Platform, Azure e AWS.
+Atualmente, meu foco está em **Ciência de Dados, Engenharia de Dados e soluções orientadas a negócios**, utilizando tecnologias como Python, SQL, Microsoft Power Platform, Azure e AWS.
 
-Acredito que o maior desafio da tecnologia não é apenas dominar ferramentas, mas entender os problemas que precisam ser resolvidos. Gosto de explorar alternativas, aprender novas tecnologias e encontrar formas de transformar atividades complexas em soluções simples, eficientes e escaláveis.
+Acredito que tecnologia vai além de dominar ferramentas. Para mim, o mais importante é compreender o problema, explorar alternativas e encontrar maneiras de transformar processos complexos em soluções simples, eficientes e escaláveis.
 
-Este GitHub é um espaço onde compartilho projetos práticos, experimentos e aplicações que refletem essa evolução profissional.
+Este GitHub reúne projetos práticos, acadêmicos e experimentais que refletem minha trajetória e meu desenvolvimento profissional.
 
 ## Projetos
 
 ### [FiscalFlow](https://github.com/mateusgalvaomelo/FiscalFlow)
 
+**Gestão fiscal • Engenharia de Dados • Aplicação Full Stack**
+
 Plataforma demonstrativa de gestão de recebimento fiscal, desenvolvida com dados sintéticos para simular processos reais de negócio.
 
-O projeto explora desde o tratamento e a organização dos dados até o desenvolvimento de uma aplicação para acompanhamento operacional e análise de indicadores.
+O projeto explora o ciclo de tratamento e organização dos dados, integrando uma aplicação web para acompanhamento operacional e análise de indicadores.
 
 - Importação, tratamento e validação de arquivos CSV e Excel.
 - Estruturação e persistência de dados em banco relacional.
@@ -35,13 +37,37 @@ O projeto explora desde o tratamento e a organização dos dados até o desenvol
 
 **Tecnologias:** Python, FastAPI, PostgreSQL, Pandas, React e TypeScript.
 
-[Ver o projeto e o guia de execução](https://github.com/mateusgalvaomelo/FiscalFlow#readme)
+[Ver projeto e guia de execução](https://github.com/mateusgalvaomelo/FiscalFlow#readme)
+
+---
+
+### [Monitor de Frequência Cardíaca — IoT](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-)
+
+**Internet das Coisas • Sensores • Transmissão de Dados**
+
+Projeto acadêmico desenvolvido em equipe, incluindo William Madeiro da Silva, voltado à coleta e ao monitoramento de dados de frequência cardíaca utilizando tecnologias de Internet das Coisas (IoT).
+
+A solução utiliza um ESP32 para coletar leituras de frequência cardíaca e o protocolo MQTT para transmitir os dados ao ThingSpeak, onde as informações podem ser acompanhadas por meio de um painel de visualização.
+
+- Coleta de dados de frequência cardíaca com ESP32.
+- Comunicação e transmissão de dados utilizando MQTT.
+- Integração com a plataforma ThingSpeak.
+- Visualização das leituras em painel.
+- Simulação e experimentação utilizando Wokwi.
+
+**Tecnologias:** ESP32, MQTT, ThingSpeak e Wokwi.
+
+[Ver projeto e créditos da equipe](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-#readme)
+
+---
 
 ### [CuidadoSenior](https://github.com/mateusgalvaomelo/CuidadoSenior)
 
+**Desenvolvimento Web • Acessibilidade • Experiência do Usuário**
+
 Projeto acadêmico desenvolvido em equipe, voltado à acessibilidade digital e à criação de interfaces mais simples para idosos e familiares.
 
-A proposta é explorar como a tecnologia pode facilitar atividades cotidianas, considerando usabilidade, acessibilidade e experiência do usuário.
+A proposta é explorar como a tecnologia pode facilitar atividades cotidianas, considerando princípios de usabilidade, acessibilidade e experiência do usuário.
 
 - Interface simplificada e responsiva.
 - Cadastro e organização de contatos.
@@ -50,7 +76,7 @@ A proposta é explorar como a tecnologia pode facilitar atividades cotidianas, c
 
 **Tecnologias:** React, TypeScript, Vite e Tailwind CSS.
 
-[Ver o projeto](https://github.com/mateusgalvaomelo/CuidadoSenior#readme)
+[Ver projeto](https://github.com/mateusgalvaomelo/CuidadoSenior#readme)
 
 ## Tecnologias e Conhecimentos
 
@@ -62,6 +88,7 @@ A proposta é explorar como a tecnologia pode facilitar atividades cotidianas, c
 | Automação e Low-Code | Power Automate, Power Apps, Microsoft Power Platform |
 | Backend e APIs | Python, FastAPI, REST APIs |
 | Frontend | React, TypeScript, JavaScript, Tailwind CSS |
+| IoT e Integrações | ESP32, MQTT, ThingSpeak |
 | Desenvolvimento e Testes | Git, Docker, Pytest, Playwright |
 
 ## Áreas de Interesse
@@ -86,12 +113,3 @@ Tenho facilidade para aprender, transitar entre diferentes áreas e buscar solu�
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/mateusgalvaomelo/) • São Paulo, Brasil
-
-### [Monitor de frequ?ncia card?aca ? IoT](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-)
-
-Projeto acad?mico desenvolvido com William Madeiro da Silva. Utiliza ESP32 para coletar dados de frequ?ncia card?aca e MQTT para transmitir as leituras ao ThingSpeak, onde s?o visualizadas em um painel.
-
-**Tecnologias:** ESP32, MQTT, ThingSpeak e Wokwi.
-
-[Ver o projeto e os cr?ditos da equipe](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-#readme)
-

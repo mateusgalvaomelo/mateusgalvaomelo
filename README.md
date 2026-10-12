@@ -86,3 +86,12 @@ Tenho facilidade para aprender, transitar entre diferentes áreas e buscar solu�
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/mateusgalvaomelo/) • São Paulo, Brasil
+
+### [Monitor de frequ?ncia card?aca ? IoT](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-)
+
+Projeto acad?mico desenvolvido com William Madeiro da Silva. Utiliza ESP32 para coletar dados de frequ?ncia card?aca e MQTT para transmitir as leituras ao ThingSpeak, onde s?o visualizadas em um painel.
+
+**Tecnologias:** ESP32, MQTT, ThingSpeak e Wokwi.
+
+[Ver o projeto e os cr?ditos da equipe](https://github.com/Will1Wood/Will1Wood-IoT-MonitorFrequenciaCardiaca-Grupo-IoT-7-#readme)
+

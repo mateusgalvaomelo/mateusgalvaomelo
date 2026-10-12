@@ -1,37 +1,37 @@
-# Mateus Galv?o Melo
+# Mateus Galvão Melo
 
-Ci?ncia de dados ? Engenharia de dados ? Automa??o de processos
+**Ciência de Dados • Engenharia de Dados • Automação de Processos**
 
-Meu foco ? organizar dados e automatizar tarefas. Aqui compartilho projetos em que exploro esses temas, al?m de aplica??es web e interfaces acess?veis.
+Meu foco é organizar dados, automatizar tarefas e desenvolver soluções tecnológicas para problemas reais. Aqui compartilho projetos em que exploro esses temas, além de aplicações web e interfaces acessíveis.
 
-[LinkedIn](https://www.linkedin.com/in/mateusgalvaomelo/) ? S?o Paulo, Brasil
+[LinkedIn](https://www.linkedin.com/in/mateusgalvaomelo/) • São Paulo, Brasil
 
 ## Projetos
 
 ### [FiscalFlow](https://github.com/mateusgalvaomelo/FiscalFlow)
 
-Plataforma demonstrativa de gest?o de recebimento fiscal, com uma base de dados sint?ticos.
+Plataforma demonstrativa de gestão de recebimento fiscal, desenvolvida com uma base de dados sintéticos.
 
-- Importa??o e valida??o de arquivos CSV e Excel.
-- Controle de pend?ncias, justificativas e revis?es.
-- Indicadores calculados sobre o banco de dados.
-- Testes automatizados e execu??o local com Docker.
+- Importação e validação de arquivos CSV e Excel.
+- Controle de pendências, justificativas e revisões.
+- Indicadores calculados a partir do banco de dados.
+- Testes automatizados e execução local com Docker.
 
 **Tecnologias:** Python, FastAPI, PostgreSQL, Pandas, React e TypeScript.
 
-[Ver o projeto e o guia de execu??o](https://github.com/mateusgalvaomelo/FiscalFlow#readme)
+[Ver o projeto e o guia de execução](https://github.com/mateusgalvaomelo/FiscalFlow#readme)
 
 ### [CuidadoSenior](https://github.com/mateusgalvaomelo/CuidadoSenior)
 
-Projeto acad?mico desenvolvido em equipe, voltado ? acessibilidade para idosos e familiares. Re?ne uma interface simplificada, cadastro de contatos e recursos de emerg?ncia.
+Projeto acadêmico desenvolvido em equipe, voltado à acessibilidade para idosos e familiares. Reúne uma interface simplificada, cadastro de contatos e recursos de emergência.
 
 **Tecnologias:** React, TypeScript, Vite e Tailwind CSS.
 
 [Ver o projeto](https://github.com/mateusgalvaomelo/CuidadoSenior#readme)
 
-## Tecnologias nos projetos
+## Tecnologias nos Projetos
 
-| Dados e backend | Interfaces | Desenvolvimento |
+| Dados e Backend | Interfaces | Desenvolvimento |
 | --- | --- | --- |
 | Python, SQL, PostgreSQL | React, TypeScript | Git, Docker |
 | Pandas, FastAPI | Tailwind CSS, Vite | Pytest, Playwright |

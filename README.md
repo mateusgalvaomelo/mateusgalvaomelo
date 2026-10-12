@@ -20,6 +20,29 @@ Este GitHub reúne projetos práticos, acadêmicos e experimentais que refletem 
 
 ## Projetos
 
+### [MineOps](https://github.com/mateusgalvaomelo/MineOps)
+
+**Engenharia de Dados • Telecomunicações • Geoprocessamento • Aplicação Full Stack**
+
+Plataforma demonstrativa de operação e planejamento de uma rede LTE privada para mineração, desenvolvida com dados sintéticos e cenários operacionais fictícios.
+
+O projeto conecta o monitoramento da rede à operação industrial: uma falha de conectividade permite identificar quais dispositivos, aplicações e áreas podem ser afetados, integrando análise de impacto, gestão de incidentes e planejamento de expansão.
+
+- Mapa operacional interativo com satélite, sites LTE e cobertura direcional por setor.
+- Consulta de sinal ilustrativo e controle das camadas do mapa.
+- Painel de impacto operacional calculado pelas relações entre sites, dispositivos e aplicações.
+- Simulação de falhas, degradação e recuperação, com atualizações em tempo real.
+- Monitoramento de telemetria, indicadores e gestão de alarmes e incidentes.
+- Fluxo de planejamento e ativação de novos sites integrado ao inventário e à operação.
+- Persistência geoespacial com PostgreSQL/PostGIS e exportação de dados em CSV e Excel.
+- Testes automatizados, execução local com Docker e documentação com galeria de recursos.
+
+**Tecnologias:** Python, FastAPI, PostgreSQL, PostGIS, SQLAlchemy, Pandas, React, TypeScript, MapLibre e Docker.
+
+[Ver projeto e guia de execução](https://github.com/mateusgalvaomelo/MineOps#readme) • [Galeria de recursos](https://github.com/mateusgalvaomelo/MineOps/blob/main/docs/gallery.md)
+
+---
+
 ### [FiscalFlow](https://github.com/mateusgalvaomelo/FiscalFlow)
 
 **Gestão fiscal • Engenharia de Dados • Aplicação Full Stack**
